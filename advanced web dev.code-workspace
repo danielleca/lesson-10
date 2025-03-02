@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../advanced web dev"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Lesson10"
+	}
+}
